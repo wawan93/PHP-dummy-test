@@ -11,5 +11,3 @@ function reverse_and_replace($str)
 
 	return $result;
 }
-
-echo reverse_and_replace($argv[1]).PHP_EOL;
